@@ -1,6 +1,6 @@
 var data = [
   {
-    title: "For Sheen Sheen Abad girls",
+    title: "For Sheen Abad girls",
     content:
       "Their rural public school was on fire due to the failure of old, non-maintained heating equipment in 2011. 29 students out of 37 suffered severe burns all over their bodies, including their faces. Two of them, Seeran Yeganeh and Sarya Rasul-Zadeh, didn't survive. They received no financial aid for their treatments. The other 29 names were never published.",
     image: "https://media.hamshahrionline.ir/d/2020/12/05/4/4524380.jpg",
