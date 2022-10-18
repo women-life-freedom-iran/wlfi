@@ -10,7 +10,7 @@ var data = [
     title: "For Homa Darabi",
     content:
       "Homa was an Iranian pediatrician and professor of child psychiatry at the University of Tehran. She was dismissed from her position for non-adherence to hijab in December 1991. As a sign of protest, Homa immolated herself by pouring petrol over her head on 21 February 1994, after she had taken her hijab off on a public thoroughfare. She died of the burns in a hospital the next day.",
-    image: "https://pbs.twimg.com/media/FMKKO6nVgAA9Ppd.jpg",
+    image: "https://www.allianceofiranianwomen.org/wp-content/uploads/2019/09/gthfjdfghjfj-1-768x431.png",
     link: "https://www.ontheissuesmagazine.com/1994fall/tehran.php",
   },
   {
