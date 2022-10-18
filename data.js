@@ -79,7 +79,7 @@ var data = [
   {
     title: "For Farhad Khosravi",
     content:
-      "Unemployment has made many people carry heavy goods (i.e. a fridge) across the border on their shoulders to earn some money. They are called “Koolbar”s. Farhad was one of them. His frozen body was found after three days with clenched fists. Many other Koolbars get shot by the border police every year. People carried pieces of bread in Farhad’s funeral, as he was dead on a frozen trail to not die of hunger. Farhad was only 14.",
+      "Unemployment has made many people carry heavy goods (i.e. a fridge) across the border on their shoulders to earn some money. They are called “Koolbar”s. Farhad was one of them. His frozen body was found after three days with clenched fists. Many other Koolbars get shot by the border police every year. ",
     image: "https://gdb.rferl.org/249B2C5A-E910-4C29-9F9C-B827495B3F50_cx0_cy11_cw0_w1023_r1_s.jpg",
     link: "https://en.radiofarda.com/a/children-working-as-porters-killed-by-guards-on-iran-iraq-border/30338407.html",
   },
